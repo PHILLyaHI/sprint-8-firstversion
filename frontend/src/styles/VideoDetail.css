@@ -1,0 +1,20 @@
+.title-detail {
+    display: inline;
+    position: relative;
+    left: 3px;
+    bottom: 40px;
+}
+
+.date-detail {
+    display: inline;
+    position: relative;
+    left: 172px;
+    bottom: 80px;
+}
+
+.delete {
+    background-color: red;
+    color: white;
+    position: relative;
+    left: 200px
+}

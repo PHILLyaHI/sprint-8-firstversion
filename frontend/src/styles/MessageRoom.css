@@ -1,0 +1,21 @@
+.user {
+    position: relative;
+    left: 15px;
+    top: 5px;
+}
+
+.send {
+    position: relative;
+    top: 570px;
+    left: 50px;
+}
+
+.guest {
+    position: relative;
+    right: 20px;
+}
+
+.you {
+    position: relative;
+    left: 250px;
+}
